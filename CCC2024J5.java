@@ -1,4 +1,4 @@
-import java.util.Scanner;git init 
+import java.util.Scanner;
 
 public class CCC2024J5 {
     public static int rec(String[][] patch, int curRow, int curCol){
